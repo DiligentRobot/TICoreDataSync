@@ -1,6 +1,6 @@
 [submodule "Submodules/DropboxSDK"]
 	path = Submodules/DropboxSDK
-	url = https://github.com/nothirst/dropbox-sdk-ios
+	url = https://github.com/klacoste/dropbox-sdk-ios
 [submodule "TICoreDataSync/04 Utilities/SSZipArchive"]
 	path = TICoreDataSync/04 Utilities/SSZipArchive
-	url = http://github.com/ChronicStim/ssziparchive
+	url = http://github.com/klacoste/ssziparchive
