@@ -142,7 +142,6 @@
 		139546DD173AB8FB00FEA183 /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
 		13A8D41616A4B1FB00EB1FF2 /* DBAccountInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBAccountInfo.m; sourceTree = "<group>"; };
 		13A8D41716A4B1FB00EB1FF2 /* DBAuthHelperOSX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBAuthHelperOSX.m; sourceTree = "<group>"; };
-		13A8D41916A4B1FB00EB1FF2 /* DBDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBDefines.h; sourceTree = "<group>"; };
 		13A8D41A16A4B1FB00EB1FF2 /* DBDeltaEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBDeltaEntry.m; sourceTree = "<group>"; };
 		13A8D41B16A4B1FB00EB1FF2 /* DBError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBError.m; sourceTree = "<group>"; };
 		13A8D41D16A4B1FB00EB1FF2 /* DBKeychain-OSX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "DBKeychain-OSX.m"; sourceTree = "<group>"; };
@@ -445,7 +444,6 @@
 			children = (
 				13A8D41616A4B1FB00EB1FF2 /* DBAccountInfo.m */,
 				13A8D41716A4B1FB00EB1FF2 /* DBAuthHelperOSX.m */,
-				13A8D41916A4B1FB00EB1FF2 /* DBDefines.h */,
 				13A8D41A16A4B1FB00EB1FF2 /* DBDeltaEntry.m */,
 				13A8D41B16A4B1FB00EB1FF2 /* DBError.m */,
 				13A8D41D16A4B1FB00EB1FF2 /* DBKeychain-OSX.m */,

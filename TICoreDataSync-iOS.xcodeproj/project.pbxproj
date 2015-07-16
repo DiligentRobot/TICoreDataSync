@@ -273,7 +273,6 @@
 		13023CF4161366E10071C497 /* TICoreDataSync.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TICoreDataSync.h; sourceTree = "<group>"; };
 		132F693316B1D5300076DF58 /* DBAccountInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBAccountInfo.m; sourceTree = "<group>"; };
 		132F693516B1D5300076DF58 /* DBConnectController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBConnectController.m; sourceTree = "<group>"; };
-		132F693616B1D5300076DF58 /* DBDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBDefines.h; sourceTree = "<group>"; };
 		132F693716B1D5300076DF58 /* DBDeltaEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBDeltaEntry.m; sourceTree = "<group>"; };
 		132F693816B1D5300076DF58 /* DBError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBError.m; sourceTree = "<group>"; };
 		132F693916B1D5300076DF58 /* DBKeychain-iOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "DBKeychain-iOS.m"; sourceTree = "<group>"; };
@@ -713,7 +712,6 @@
 			children = (
 				132F693316B1D5300076DF58 /* DBAccountInfo.m */,
 				132F693516B1D5300076DF58 /* DBConnectController.m */,
-				132F693616B1D5300076DF58 /* DBDefines.h */,
 				132F693716B1D5300076DF58 /* DBDeltaEntry.m */,
 				132F693816B1D5300076DF58 /* DBError.m */,
 				132F693916B1D5300076DF58 /* DBKeychain-iOS.m */,
