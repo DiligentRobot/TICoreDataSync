@@ -114,7 +114,6 @@
 		1363A09117060071007AF704 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 1363A07017060071007AF704 /* unzip.c */; };
 		1363A09217060071007AF704 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 1363A07217060071007AF704 /* zip.c */; };
 		1363A09817060071007AF704 /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 1363A08217060071007AF704 /* SSZipArchive.m */; };
-		1363A09E170600C8007AF704 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 1363A09D170600C8007AF704 /* libz.dylib */; };
 		139E30151716F73100644289 /* TICDSSyncTransaction.m in Sources */ = {isa = PBXBuildFile; fileRef = 139E30141716F73100644289 /* TICDSSyncTransaction.m */; };
 		13E42CA3172AFC38006ACFD5 /* UIApplication+TICDSAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 13E42CA2172AFC38006ACFD5 /* UIApplication+TICDSAdditions.m */; };
 		13FB9BA016C2EE8F00B656F3 /* TICDSPostSynchronizationOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 13FB9B9D16C2EE8F00B656F3 /* TICDSPostSynchronizationOperation.m */; };
@@ -368,7 +367,6 @@
 		1363A07317060071007AF704 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
 		1363A08117060071007AF704 /* SSZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
 		1363A08217060071007AF704 /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
-		1363A09D170600C8007AF704 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		139E30131716F73100644289 /* TICDSSyncTransaction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TICDSSyncTransaction.h; sourceTree = "<group>"; };
 		139E30141716F73100644289 /* TICDSSyncTransaction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TICDSSyncTransaction.m; sourceTree = "<group>"; };
 		13E42CA1172AFC38006ACFD5 /* UIApplication+TICDSAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+TICDSAdditions.h"; sourceTree = "<group>"; };
@@ -392,7 +390,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1363A09E170600C8007AF704 /* libz.dylib in Frameworks */,
 				13023C5D161366A30071C497 /* QuartzCore.framework in Frameworks */,
 				13023C5B1613669A0071C497 /* CoreData.framework in Frameworks */,
 				13023C59161366790071C497 /* Security.framework in Frameworks */,
@@ -424,7 +421,6 @@
 		13023C3F161363D50071C497 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1363A09D170600C8007AF704 /* libz.dylib */,
 				13023C5C161366A30071C497 /* QuartzCore.framework */,
 				13023C5A1613669A0071C497 /* CoreData.framework */,
 				13023C58161366790071C497 /* Security.framework */,
